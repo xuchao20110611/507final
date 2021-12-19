@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>has day</title>
+</head>
+<body>
+<p>The following dates meet your preference to {{city}}:</p>
+<br>
+<ul>
+    {% for date in dates %}
+        <li>{{date}}</li>
+    {% endfor %}
+</ul>
+
+<p>
+    There are five recommendations for you:
+</p>
+<table>
+        <tr> <td>Title</td> <td>Description</td> <td>Price</td></tr>
+        {% for event in eventlist %}
+        <tr> <td><a href={{event[3]}}>Event{{event[4]}} : {{event[0]}}</a></td>   <td> {{event[1]}} </td> <td>{{event[2]}} </td></tr>
+        {% endfor %}
+
+</table>
+
+<img src="/static/images/consumption.png" alt="Consumption prediction" height="500" width="1000">
+
+<br>
+    Click <a href="/">here</a> to return.
+</body>
+</html>

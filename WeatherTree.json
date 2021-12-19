@@ -1,0 +1,1338 @@
+{
+    "Los Angeles": {
+        "Clear": {
+            "median": [
+                {
+                    "Day": "18/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 52.39,
+                    "maxTemperature": 66.34,
+                    "Humidity": 13,
+                    "Weather": "Clear",
+                    "Sunrise": "14:53:17",
+                    "Sunset": "00:46:20",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.884166666666667,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "19/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 53.92,
+                    "maxTemperature": 65.34,
+                    "Humidity": 16,
+                    "Weather": "Clear",
+                    "Sunrise": "14:53:49",
+                    "Sunset": "00:46:44",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.881944444444445,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "28/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 50.05,
+                    "maxTemperature": 57.33,
+                    "Humidity": 59,
+                    "Weather": "Clear",
+                    "Sunrise": "14:57:35",
+                    "Sunset": "00:51:36",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.900277777777777,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "31/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 47.84,
+                    "maxTemperature": 57.47,
+                    "Humidity": 61,
+                    "Weather": "Clear",
+                    "Sunrise": "14:58:21",
+                    "Sunset": "00:53:39",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.921666666666667,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "01/01/22",
+                    "City": "Los Angeles",
+                    "minTemperature": 50.14,
+                    "maxTemperature": 62.06,
+                    "Humidity": 55,
+                    "Weather": "Clear",
+                    "Sunrise": "14:58:33",
+                    "Sunset": "00:54:23",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.930555555555555,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "02/01/22",
+                    "City": "Los Angeles",
+                    "minTemperature": 53.4,
+                    "maxTemperature": 67.37,
+                    "Humidity": 36,
+                    "Weather": "Clear",
+                    "Sunrise": "14:58:43",
+                    "Sunset": "00:55:08",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.940277777777778,
+                    "Temp": "median"
+                }
+            ]
+        },
+        "Clouds": {
+            "median": [
+                {
+                    "Day": "20/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 53.38,
+                    "maxTemperature": 63.12,
+                    "Humidity": 12,
+                    "Weather": "Clouds",
+                    "Sunrise": "14:54:21",
+                    "Sunset": "00:47:11",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.880555555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "21/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 55.53,
+                    "maxTemperature": 64.18,
+                    "Humidity": 14,
+                    "Weather": "Clouds",
+                    "Sunrise": "14:54:50",
+                    "Sunset": "00:47:38",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.88,
+                    "Temp": "median"
+                }
+            ]
+        },
+        "Rain": {
+            "median": [
+                {
+                    "Day": "22/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 54.28,
+                    "maxTemperature": 59.88,
+                    "Humidity": 31,
+                    "Weather": "Rain",
+                    "Sunrise": "14:55:19",
+                    "Sunset": "00:48:08",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.880277777777778,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "23/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 54.84,
+                    "maxTemperature": 58.32,
+                    "Humidity": 79,
+                    "Weather": "Rain",
+                    "Sunrise": "14:55:46",
+                    "Sunset": "00:48:39",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.881388888888889,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "24/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 56.61,
+                    "maxTemperature": 61.36,
+                    "Humidity": 72,
+                    "Weather": "Rain",
+                    "Sunrise": "14:56:11",
+                    "Sunset": "00:49:12",
+                    "WeatherDetail": "moderate rain",
+                    "DayTime": 9.883611111111112,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "25/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 53.44,
+                    "maxTemperature": 57.11,
+                    "Humidity": 76,
+                    "Weather": "Rain",
+                    "Sunrise": "14:56:34",
+                    "Sunset": "00:49:46",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.886666666666667,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "26/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 53.19,
+                    "maxTemperature": 59.23,
+                    "Humidity": 73,
+                    "Weather": "Rain",
+                    "Sunrise": "14:56:56",
+                    "Sunset": "00:50:21",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.890277777777778,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "27/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 51.71,
+                    "maxTemperature": 58.48,
+                    "Humidity": 64,
+                    "Weather": "Rain",
+                    "Sunrise": "14:57:17",
+                    "Sunset": "00:50:58",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.894722222222223,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "29/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 48.49,
+                    "maxTemperature": 55.15,
+                    "Humidity": 63,
+                    "Weather": "Rain",
+                    "Sunrise": "14:57:52",
+                    "Sunset": "00:52:16",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.906666666666666,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "30/12/21",
+                    "City": "Los Angeles",
+                    "minTemperature": 49.89,
+                    "maxTemperature": 55.36,
+                    "Humidity": 68,
+                    "Weather": "Rain",
+                    "Sunrise": "14:58:07",
+                    "Sunset": "00:52:57",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.91388888888889,
+                    "Temp": "median"
+                }
+            ]
+        }
+    },
+    "New York": {
+        "Rain": {
+            "cold": [
+                {
+                    "Day": "18/12/21",
+                    "City": "New York",
+                    "minTemperature": 43.03,
+                    "maxTemperature": 48.2,
+                    "Humidity": 62,
+                    "Weather": "Rain",
+                    "Sunrise": "12:15:07",
+                    "Sunset": "21:30:28",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.255833333333333,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "27/12/21",
+                    "City": "New York",
+                    "minTemperature": 41.79,
+                    "maxTemperature": 46.04,
+                    "Humidity": 64,
+                    "Weather": "Rain",
+                    "Sunrise": "12:19:04",
+                    "Sunset": "21:35:10",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.268333333333333,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "28/12/21",
+                    "City": "New York",
+                    "minTemperature": 36,
+                    "maxTemperature": 42.71,
+                    "Humidity": 71,
+                    "Weather": "Rain",
+                    "Sunrise": "12:19:19",
+                    "Sunset": "21:35:51",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.275555555555556,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "29/12/21",
+                    "City": "New York",
+                    "minTemperature": 37.54,
+                    "maxTemperature": 44.82,
+                    "Humidity": 79,
+                    "Weather": "Rain",
+                    "Sunrise": "12:19:33",
+                    "Sunset": "21:36:34",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.283611111111112,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "30/12/21",
+                    "City": "New York",
+                    "minTemperature": 37.81,
+                    "maxTemperature": 44.33,
+                    "Humidity": 83,
+                    "Weather": "Rain",
+                    "Sunrise": "12:19:45",
+                    "Sunset": "21:37:19",
+                    "WeatherDetail": "moderate rain",
+                    "DayTime": 9.292777777777777,
+                    "Temp": "cold"
+                }
+            ],
+            "median": [
+                {
+                    "Day": "26/12/21",
+                    "City": "New York",
+                    "minTemperature": 41.05,
+                    "maxTemperature": 50.72,
+                    "Humidity": 94,
+                    "Weather": "Rain",
+                    "Sunrise": "12:18:46",
+                    "Sunset": "21:34:31",
+                    "WeatherDetail": "moderate rain",
+                    "DayTime": 9.2625,
+                    "Temp": "median"
+                }
+            ]
+        },
+        "Clouds": {
+            "cold": [
+                {
+                    "Day": "19/12/21",
+                    "City": "New York",
+                    "minTemperature": 32.05,
+                    "maxTemperature": 49.75,
+                    "Humidity": 48,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:15:42",
+                    "Sunset": "21:30:51",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.2525,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "21/12/21",
+                    "City": "New York",
+                    "minTemperature": 35.22,
+                    "maxTemperature": 44.31,
+                    "Humidity": 50,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:16:44",
+                    "Sunset": "21:31:43",
+                    "WeatherDetail": "broken clouds",
+                    "DayTime": 9.249722222222223,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "22/12/21",
+                    "City": "New York",
+                    "minTemperature": 35.49,
+                    "maxTemperature": 46.2,
+                    "Humidity": 66,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:17:13",
+                    "Sunset": "21:32:13",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.25,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "01/01/22",
+                    "City": "New York",
+                    "minTemperature": 23.61,
+                    "maxTemperature": 28.72,
+                    "Humidity": 40,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:20:01",
+                    "Sunset": "21:38:54",
+                    "WeatherDetail": "scattered clouds",
+                    "DayTime": 9.314722222222223,
+                    "Temp": "cold"
+                }
+            ]
+        },
+        "Clear": {
+            "cold": [
+                {
+                    "Day": "20/12/21",
+                    "City": "New York",
+                    "minTemperature": 30.76,
+                    "maxTemperature": 39.7,
+                    "Humidity": 43,
+                    "Weather": "Clear",
+                    "Sunrise": "12:16:14",
+                    "Sunset": "21:31:16",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.250555555555556,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "23/12/21",
+                    "City": "New York",
+                    "minTemperature": 31.95,
+                    "maxTemperature": 38.41,
+                    "Humidity": 47,
+                    "Weather": "Clear",
+                    "Sunrise": "12:17:39",
+                    "Sunset": "21:32:44",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.251388888888888,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "24/12/21",
+                    "City": "New York",
+                    "minTemperature": 32.65,
+                    "maxTemperature": 41.86,
+                    "Humidity": 40,
+                    "Weather": "Clear",
+                    "Sunrise": "12:18:03",
+                    "Sunset": "21:33:18",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.254166666666666,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "25/12/21",
+                    "City": "New York",
+                    "minTemperature": 37.27,
+                    "maxTemperature": 44.83,
+                    "Humidity": 63,
+                    "Weather": "Clear",
+                    "Sunrise": "12:18:26",
+                    "Sunset": "21:33:53",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.2575,
+                    "Temp": "cold"
+                }
+            ]
+        },
+        "Snow": {
+            "cold": [
+                {
+                    "Day": "31/12/21",
+                    "City": "New York",
+                    "minTemperature": 26.83,
+                    "maxTemperature": 34.57,
+                    "Humidity": 44,
+                    "Weather": "Snow",
+                    "Sunrise": "12:19:54",
+                    "Sunset": "21:38:05",
+                    "WeatherDetail": "light snow",
+                    "DayTime": 9.303055555555556,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "02/01/22",
+                    "City": "New York",
+                    "minTemperature": 27.64,
+                    "maxTemperature": 33.73,
+                    "Humidity": 55,
+                    "Weather": "Snow",
+                    "Sunrise": "12:20:06",
+                    "Sunset": "21:39:44",
+                    "WeatherDetail": "snow",
+                    "DayTime": 9.327222222222222,
+                    "Temp": "cold"
+                }
+            ]
+        }
+    },
+    "Boston": {
+        "Snow": {
+            "cold": [
+                {
+                    "Day": "18/12/21",
+                    "City": "Boston",
+                    "minTemperature": 34.72,
+                    "maxTemperature": 44.31,
+                    "Humidity": 66,
+                    "Weather": "Snow",
+                    "Sunrise": "12:08:39",
+                    "Sunset": "21:13:22",
+                    "WeatherDetail": "rain and snow",
+                    "DayTime": 9.078611111111112,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "25/12/21",
+                    "City": "Boston",
+                    "minTemperature": 31.35,
+                    "maxTemperature": 37.92,
+                    "Humidity": 68,
+                    "Weather": "Snow",
+                    "Sunrise": "12:11:57",
+                    "Sunset": "21:16:47",
+                    "WeatherDetail": "light snow",
+                    "DayTime": 9.080555555555556,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "30/12/21",
+                    "City": "Boston",
+                    "minTemperature": 28.49,
+                    "maxTemperature": 37.76,
+                    "Humidity": 98,
+                    "Weather": "Snow",
+                    "Sunrise": "12:13:12",
+                    "Sunset": "21:20:17",
+                    "WeatherDetail": "rain and snow",
+                    "DayTime": 9.118055555555555,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "31/12/21",
+                    "City": "Boston",
+                    "minTemperature": 19.99,
+                    "maxTemperature": 26.35,
+                    "Humidity": 37,
+                    "Weather": "Snow",
+                    "Sunrise": "12:13:20",
+                    "Sunset": "21:21:05",
+                    "WeatherDetail": "light snow",
+                    "DayTime": 9.129166666666666,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "02/01/22",
+                    "City": "Boston",
+                    "minTemperature": 24.15,
+                    "maxTemperature": 31.91,
+                    "Humidity": 66,
+                    "Weather": "Snow",
+                    "Sunrise": "12:13:29",
+                    "Sunset": "21:22:46",
+                    "WeatherDetail": "light snow",
+                    "DayTime": 9.154722222222222,
+                    "Temp": "cold"
+                }
+            ]
+        },
+        "Rain": {
+            "cold": [
+                {
+                    "Day": "19/12/21",
+                    "City": "Boston",
+                    "minTemperature": 27.39,
+                    "maxTemperature": 40.14,
+                    "Humidity": 75,
+                    "Weather": "Rain",
+                    "Sunrise": "12:09:14",
+                    "Sunset": "21:13:44",
+                    "WeatherDetail": "moderate rain",
+                    "DayTime": 9.075,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "26/12/21",
+                    "City": "Boston",
+                    "minTemperature": 32.47,
+                    "maxTemperature": 48.31,
+                    "Humidity": 87,
+                    "Weather": "Rain",
+                    "Sunrise": "12:12:17",
+                    "Sunset": "21:17:25",
+                    "WeatherDetail": "moderate rain",
+                    "DayTime": 9.085555555555555,
+                    "Temp": "cold"
+                }
+            ]
+        },
+        "Clouds": {
+            "cold": [
+                {
+                    "Day": "20/12/21",
+                    "City": "Boston",
+                    "minTemperature": 25.63,
+                    "maxTemperature": 33.28,
+                    "Humidity": 48,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:09:46",
+                    "Sunset": "21:14:09",
+                    "WeatherDetail": "few clouds",
+                    "DayTime": 9.073055555555555,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "21/12/21",
+                    "City": "Boston",
+                    "minTemperature": 30.69,
+                    "maxTemperature": 40.48,
+                    "Humidity": 57,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:10:17",
+                    "Sunset": "21:14:36",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.071944444444444,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "22/12/21",
+                    "City": "Boston",
+                    "minTemperature": 30.04,
+                    "maxTemperature": 39.85,
+                    "Humidity": 75,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:10:45",
+                    "Sunset": "21:15:06",
+                    "WeatherDetail": "broken clouds",
+                    "DayTime": 9.0725,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "24/12/21",
+                    "City": "Boston",
+                    "minTemperature": 28.45,
+                    "maxTemperature": 35.49,
+                    "Humidity": 37,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:11:35",
+                    "Sunset": "21:16:11",
+                    "WeatherDetail": "few clouds",
+                    "DayTime": 9.076666666666666,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "27/12/21",
+                    "City": "Boston",
+                    "minTemperature": 33.8,
+                    "maxTemperature": 44.28,
+                    "Humidity": 67,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:12:34",
+                    "Sunset": "21:18:05",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.091944444444444,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "28/12/21",
+                    "City": "Boston",
+                    "minTemperature": 35.42,
+                    "maxTemperature": 38.61,
+                    "Humidity": 62,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:12:49",
+                    "Sunset": "21:18:47",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.099444444444444,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "29/12/21",
+                    "City": "Boston",
+                    "minTemperature": 32.61,
+                    "maxTemperature": 39.34,
+                    "Humidity": 76,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:13:02",
+                    "Sunset": "21:19:31",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.108055555555556,
+                    "Temp": "cold"
+                }
+            ]
+        },
+        "Clear": {
+            "cold": [
+                {
+                    "Day": "23/12/21",
+                    "City": "Boston",
+                    "minTemperature": 28.6,
+                    "maxTemperature": 33.96,
+                    "Humidity": 41,
+                    "Weather": "Clear",
+                    "Sunrise": "12:11:11",
+                    "Sunset": "21:15:37",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.073888888888888,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "01/01/22",
+                    "City": "Boston",
+                    "minTemperature": 16.72,
+                    "maxTemperature": 26.55,
+                    "Humidity": 53,
+                    "Weather": "Clear",
+                    "Sunrise": "12:13:26",
+                    "Sunset": "21:21:54",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.141111111111112,
+                    "Temp": "cold"
+                }
+            ]
+        }
+    },
+    "San Fransisco": {
+        "Rain": {
+            "median": [
+                {
+                    "Day": "18/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 49.26,
+                    "maxTemperature": 58.44,
+                    "Humidity": 83,
+                    "Weather": "Rain",
+                    "Sunrise": "11:06:39",
+                    "Sunset": "23:15:14",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.143055555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "19/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 46.89,
+                    "maxTemperature": 63.07,
+                    "Humidity": 63,
+                    "Weather": "Rain",
+                    "Sunrise": "11:07:08",
+                    "Sunset": "23:15:43",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.143055555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "20/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 49.03,
+                    "maxTemperature": 57.33,
+                    "Humidity": 85,
+                    "Weather": "Rain",
+                    "Sunrise": "11:07:37",
+                    "Sunset": "23:16:12",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.143055555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "21/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 49.23,
+                    "maxTemperature": 57.47,
+                    "Humidity": 78,
+                    "Weather": "Rain",
+                    "Sunrise": "11:08:06",
+                    "Sunset": "23:16:40",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.142777777777777,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "22/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 49.23,
+                    "maxTemperature": 63.68,
+                    "Humidity": 60,
+                    "Weather": "Rain",
+                    "Sunrise": "11:08:34",
+                    "Sunset": "23:17:09",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.143055555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "23/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 45.59,
+                    "maxTemperature": 64.08,
+                    "Humidity": 53,
+                    "Weather": "Rain",
+                    "Sunrise": "11:09:03",
+                    "Sunset": "23:17:38",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.143055555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "24/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 45.63,
+                    "maxTemperature": 63.93,
+                    "Humidity": 50,
+                    "Weather": "Rain",
+                    "Sunrise": "11:09:32",
+                    "Sunset": "23:18:07",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.143055555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "25/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 44.31,
+                    "maxTemperature": 65.5,
+                    "Humidity": 45,
+                    "Weather": "Rain",
+                    "Sunrise": "11:10:01",
+                    "Sunset": "23:18:36",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.143055555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "26/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 46.85,
+                    "maxTemperature": 60.78,
+                    "Humidity": 70,
+                    "Weather": "Rain",
+                    "Sunrise": "11:10:30",
+                    "Sunset": "23:19:04",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.142777777777777,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "27/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 47.61,
+                    "maxTemperature": 61.65,
+                    "Humidity": 66,
+                    "Weather": "Rain",
+                    "Sunrise": "11:10:59",
+                    "Sunset": "23:19:33",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.142777777777777,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "28/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 45.86,
+                    "maxTemperature": 62.78,
+                    "Humidity": 61,
+                    "Weather": "Rain",
+                    "Sunrise": "11:11:28",
+                    "Sunset": "23:20:01",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.1425,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "29/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 44.98,
+                    "maxTemperature": 64.04,
+                    "Humidity": 57,
+                    "Weather": "Rain",
+                    "Sunrise": "11:11:56",
+                    "Sunset": "23:20:29",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.1425,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "30/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 44.8,
+                    "maxTemperature": 63.86,
+                    "Humidity": 54,
+                    "Weather": "Rain",
+                    "Sunrise": "11:12:25",
+                    "Sunset": "23:20:57",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.142222222222221,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "31/12/21",
+                    "City": "San Fransisco",
+                    "minTemperature": 47.28,
+                    "maxTemperature": 64.27,
+                    "Humidity": 53,
+                    "Weather": "Rain",
+                    "Sunrise": "11:12:53",
+                    "Sunset": "23:21:25",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.142222222222221,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "01/01/22",
+                    "City": "San Fransisco",
+                    "minTemperature": 48.7,
+                    "maxTemperature": 62.13,
+                    "Humidity": 62,
+                    "Weather": "Rain",
+                    "Sunrise": "11:13:21",
+                    "Sunset": "23:21:52",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 12.141944444444444,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "02/01/22",
+                    "City": "San Fransisco",
+                    "minTemperature": 48.79,
+                    "maxTemperature": 59.97,
+                    "Humidity": 76,
+                    "Weather": "Rain",
+                    "Sunrise": "11:13:48",
+                    "Sunset": "23:22:20",
+                    "WeatherDetail": "moderate rain",
+                    "DayTime": 12.142222222222221,
+                    "Temp": "median"
+                }
+            ]
+        }
+    },
+    "Washington DC": {
+        "Rain": {
+            "median": [
+                {
+                    "Day": "18/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 48.22,
+                    "maxTemperature": 57.34,
+                    "Humidity": 61,
+                    "Weather": "Rain",
+                    "Sunrise": "12:21:42",
+                    "Sunset": "21:48:08",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.440555555555555,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "19/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 35.73,
+                    "maxTemperature": 58.8,
+                    "Humidity": 45,
+                    "Weather": "Rain",
+                    "Sunrise": "12:22:16",
+                    "Sunset": "21:48:31",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.4375,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "25/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 41.36,
+                    "maxTemperature": 52.68,
+                    "Humidity": 53,
+                    "Weather": "Rain",
+                    "Sunrise": "12:25:01",
+                    "Sunset": "21:51:33",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.442222222222222,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "26/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 45.14,
+                    "maxTemperature": 62.85,
+                    "Humidity": 73,
+                    "Weather": "Rain",
+                    "Sunrise": "12:25:21",
+                    "Sunset": "21:52:10",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.446944444444444,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "27/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 48.9,
+                    "maxTemperature": 58.48,
+                    "Humidity": 75,
+                    "Weather": "Rain",
+                    "Sunrise": "12:25:40",
+                    "Sunset": "21:52:48",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.452222222222222,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "28/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 42.19,
+                    "maxTemperature": 51.8,
+                    "Humidity": 90,
+                    "Weather": "Rain",
+                    "Sunrise": "12:25:57",
+                    "Sunset": "21:53:29",
+                    "WeatherDetail": "moderate rain",
+                    "DayTime": 9.45888888888889,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "30/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 43.29,
+                    "maxTemperature": 51.93,
+                    "Humidity": 78,
+                    "Weather": "Rain",
+                    "Sunrise": "12:26:24",
+                    "Sunset": "21:54:54",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.475,
+                    "Temp": "median"
+                }
+            ],
+            "cold": [
+                {
+                    "Day": "29/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 42.96,
+                    "maxTemperature": 45.73,
+                    "Humidity": 92,
+                    "Weather": "Rain",
+                    "Sunrise": "12:26:12",
+                    "Sunset": "21:54:11",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.466388888888888,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "31/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 34.48,
+                    "maxTemperature": 40.24,
+                    "Humidity": 91,
+                    "Weather": "Rain",
+                    "Sunrise": "12:26:35",
+                    "Sunset": "21:55:40",
+                    "WeatherDetail": "moderate rain",
+                    "DayTime": 9.484722222222222,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "02/01/22",
+                    "City": "Washington DC",
+                    "minTemperature": 31.1,
+                    "maxTemperature": 37.29,
+                    "Humidity": 89,
+                    "Weather": "Rain",
+                    "Sunrise": "12:26:50",
+                    "Sunset": "21:57:15",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 9.506944444444445,
+                    "Temp": "cold"
+                }
+            ]
+        },
+        "Clear": {
+            "cold": [
+                {
+                    "Day": "20/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 30.76,
+                    "maxTemperature": 43.34,
+                    "Humidity": 27,
+                    "Weather": "Clear",
+                    "Sunrise": "12:22:48",
+                    "Sunset": "21:48:57",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 9.435833333333333,
+                    "Temp": "cold"
+                }
+            ]
+        },
+        "Clouds": {
+            "cold": [
+                {
+                    "Day": "21/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 34.07,
+                    "maxTemperature": 47.79,
+                    "Humidity": 36,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:23:18",
+                    "Sunset": "21:49:24",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.435,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "22/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 35.65,
+                    "maxTemperature": 49.73,
+                    "Humidity": 34,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:23:47",
+                    "Sunset": "21:49:54",
+                    "WeatherDetail": "overcast clouds",
+                    "DayTime": 9.435277777777777,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "23/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 30.27,
+                    "maxTemperature": 39.63,
+                    "Humidity": 31,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:24:13",
+                    "Sunset": "21:50:25",
+                    "WeatherDetail": "broken clouds",
+                    "DayTime": 9.436666666666667,
+                    "Temp": "cold"
+                },
+                {
+                    "Day": "24/12/21",
+                    "City": "Washington DC",
+                    "minTemperature": 31.21,
+                    "maxTemperature": 44.19,
+                    "Humidity": 40,
+                    "Weather": "Clouds",
+                    "Sunrise": "12:24:38",
+                    "Sunset": "21:50:58",
+                    "WeatherDetail": "broken clouds",
+                    "DayTime": 9.438888888888888,
+                    "Temp": "cold"
+                }
+            ]
+        },
+        "Snow": {
+            "cold": [
+                {
+                    "Day": "01/01/22",
+                    "City": "Washington DC",
+                    "minTemperature": 30.79,
+                    "maxTemperature": 33.39,
+                    "Humidity": 52,
+                    "Weather": "Snow",
+                    "Sunrise": "12:26:43",
+                    "Sunset": "21:56:26",
+                    "WeatherDetail": "light snow",
+                    "DayTime": 9.495277777777778,
+                    "Temp": "cold"
+                }
+            ]
+        }
+    },
+    "Miami": {
+        "Rain": {
+            "median": [
+                {
+                    "Day": "18/12/21",
+                    "City": "Miami",
+                    "minTemperature": 76.77,
+                    "maxTemperature": 79.11,
+                    "Humidity": 73,
+                    "Weather": "Rain",
+                    "Sunrise": "12:01:42",
+                    "Sunset": "22:33:25",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.528611111111111,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "19/12/21",
+                    "City": "Miami",
+                    "minTemperature": 76.05,
+                    "maxTemperature": 79.38,
+                    "Humidity": 73,
+                    "Weather": "Rain",
+                    "Sunrise": "12:02:13",
+                    "Sunset": "22:33:50",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.526944444444444,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "20/12/21",
+                    "City": "Miami",
+                    "minTemperature": 73.83,
+                    "maxTemperature": 78.71,
+                    "Humidity": 67,
+                    "Weather": "Rain",
+                    "Sunrise": "12:02:44",
+                    "Sunset": "22:34:17",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.525833333333333,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "21/12/21",
+                    "City": "Miami",
+                    "minTemperature": 72.5,
+                    "maxTemperature": 80.49,
+                    "Humidity": 65,
+                    "Weather": "Rain",
+                    "Sunrise": "12:03:14",
+                    "Sunset": "22:34:45",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.525277777777777,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "22/12/21",
+                    "City": "Miami",
+                    "minTemperature": 68.83,
+                    "maxTemperature": 77.83,
+                    "Humidity": 51,
+                    "Weather": "Rain",
+                    "Sunrise": "12:03:42",
+                    "Sunset": "22:35:14",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.525555555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "29/12/21",
+                    "City": "Miami",
+                    "minTemperature": 75.16,
+                    "maxTemperature": 77.09,
+                    "Humidity": 68,
+                    "Weather": "Rain",
+                    "Sunrise": "12:06:31",
+                    "Sunset": "22:39:08",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.543611111111112,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "30/12/21",
+                    "City": "Miami",
+                    "minTemperature": 76.39,
+                    "maxTemperature": 78.62,
+                    "Humidity": 66,
+                    "Weather": "Rain",
+                    "Sunrise": "12:06:50",
+                    "Sunset": "22:39:45",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.54861111111111,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "31/12/21",
+                    "City": "Miami",
+                    "minTemperature": 76.93,
+                    "maxTemperature": 80.02,
+                    "Humidity": 57,
+                    "Weather": "Rain",
+                    "Sunrise": "12:07:08",
+                    "Sunset": "22:40:23",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.554166666666667,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "02/01/22",
+                    "City": "Miami",
+                    "minTemperature": 71.31,
+                    "maxTemperature": 80.26,
+                    "Humidity": 52,
+                    "Weather": "Rain",
+                    "Sunrise": "12:07:40",
+                    "Sunset": "22:41:41",
+                    "WeatherDetail": "light rain",
+                    "DayTime": 10.566944444444445,
+                    "Temp": "median"
+                }
+            ]
+        },
+        "Clear": {
+            "median": [
+                {
+                    "Day": "23/12/21",
+                    "City": "Miami",
+                    "minTemperature": 62.38,
+                    "maxTemperature": 73.42,
+                    "Humidity": 48,
+                    "Weather": "Clear",
+                    "Sunrise": "12:04:10",
+                    "Sunset": "22:35:45",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 10.526388888888889,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "24/12/21",
+                    "City": "Miami",
+                    "minTemperature": 65.84,
+                    "maxTemperature": 74.5,
+                    "Humidity": 53,
+                    "Weather": "Clear",
+                    "Sunrise": "12:04:36",
+                    "Sunset": "22:36:16",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 10.527777777777779,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "25/12/21",
+                    "City": "Miami",
+                    "minTemperature": 70.39,
+                    "maxTemperature": 75.45,
+                    "Humidity": 49,
+                    "Weather": "Clear",
+                    "Sunrise": "12:05:01",
+                    "Sunset": "22:36:48",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 10.529722222222222,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "26/12/21",
+                    "City": "Miami",
+                    "minTemperature": 71.6,
+                    "maxTemperature": 75.29,
+                    "Humidity": 56,
+                    "Weather": "Clear",
+                    "Sunrise": "12:05:25",
+                    "Sunset": "22:37:22",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 10.5325,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "27/12/21",
+                    "City": "Miami",
+                    "minTemperature": 72.14,
+                    "maxTemperature": 76.26,
+                    "Humidity": 58,
+                    "Weather": "Clear",
+                    "Sunrise": "12:05:48",
+                    "Sunset": "22:37:56",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 10.535555555555556,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "28/12/21",
+                    "City": "Miami",
+                    "minTemperature": 72.95,
+                    "maxTemperature": 76.71,
+                    "Humidity": 63,
+                    "Weather": "Clear",
+                    "Sunrise": "12:06:10",
+                    "Sunset": "22:38:31",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 10.539166666666667,
+                    "Temp": "median"
+                },
+                {
+                    "Day": "01/01/22",
+                    "City": "Miami",
+                    "minTemperature": 74.82,
+                    "maxTemperature": 80.76,
+                    "Humidity": 52,
+                    "Weather": "Clear",
+                    "Sunrise": "12:07:25",
+                    "Sunset": "22:41:01",
+                    "WeatherDetail": "sky is clear",
+                    "DayTime": 10.56,
+                    "Temp": "median"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Travel Recommendations</title>
+</head>
+<body>
+    <form action="/recommendation/checkday" method="post">
+    <p>
+        What's your target city?
+        <br>
+        <input type="radio" name="city" value="Los Angeles">Los Angeles
+        <input type="radio" name="city" value="New York">New York
+        <input type="radio" name="city" value="Boston">Boston
+        <input type="radio" name="city" value="San Fransisco">San Fransisco
+        <input type="radio" name="city" value="Washington DC">Washington DC
+        <input type="radio" name="city" value="Miami">Miami
+
+        <br>
+
+        What's your target weather?
+        <br>
+        <input type="radio" name="weather" value="Clear">Clear
+        <input type="radio" name="weather" value="Clouds">Clouds
+        <input type="radio" name="weather" value="Rain">Rain
+        <input type="radio" name="weather" value="Snow">Snow
+
+
+        <br>
+
+        What's your target temperature?
+        <br>hot: minimum>77
+        <br>cold: maximum<50
+        <br>median: else
+        <br>
+        <input type="radio" name="temperature" value="hot">hot
+        <input type="radio" name="temperature" value="cold">cold
+        <input type="radio" name="temperature" value="median">median
+
+
+
+        <br>
+
+        <input type="submit" value="submit">
+    </p>
+    </form>
+
+    <br>
+    Click <a href="/">here</a> to return.
+</body>
+</html>
