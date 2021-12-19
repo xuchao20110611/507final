@@ -1,5 +1,6 @@
 # Readme for 507 final Project xuchaozj
 ## api key
+
 OpenWeather Current & Forecast weather data collection API(https://openweathermap.org/api/)
 
 My api code is set in finalsecrets.py and put the file in the .gitignore list, if you want to run the code,
@@ -17,6 +18,7 @@ json_file.close()
 In this way you could only get the weather data from the json file.
 
 ## Required Environment
+
 Flask           2.0.2
 
 requests        2.26.0
@@ -34,11 +36,13 @@ numpy           1.21.4
 pandas          1.3.5
 
 
-##How to run the code
+## How to run the code
+
 I highly recommend you yo run with IDE like Pycharm to avoid the path error.
 Open the root direction within Pycharm and run 507final.py
 
-##Data Structure
+## Data Structure
+
 There are basically two trees which are both implemented as dict.
 One for date weather information and the other for events. 
 
@@ -52,7 +56,8 @@ For the events tree:
 
 Events in each city will be stored in the same leaf as a list.
 
-##Interacting with the APP
+## Interacting with the APP
+
 There are four functionalities available on my Flask App. They are separately Temperature Forecast, Daytime Forecast, Humidity Forecast, Travel Recommendations for Boston, Los Angeles, Miami, New York, San Fransisco and Washington DC. When the App is launched, access http://127.0.0.1:5000/ and now you are at the home page. 
 
 Temperature Forecast: 
